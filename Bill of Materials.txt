@@ -1,0 +1,10 @@
+Item                 | Quantity 
+---------------------|----------
+P Type Mosfet        | 1
+Wemos D1 Mini        | 1
+10K 1/8W Res         | 1
+100 1/8W Res         | 1
+Wire (1 ft)          | 1
+DC Barrel Plug       | 1
+DC Bed Shaker        | 1
+USB-A to Micro Cable | 1
