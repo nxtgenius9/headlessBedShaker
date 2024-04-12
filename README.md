@@ -1,6 +1,6 @@
 # headlessBedShaker
 
-This is a headless bed shaker driver I based on a wemos D1 mini with a few mosfets I had lying around. I built this to run a bed shaker when I was away from the house on trips either camping or shacking up elsewhere.  I also didn't have an LCD display so I used the AP libraries of the wemos to give me something to connect to and give input on the go without going through serial on my PC.
+This is a headless bed shaker driver I based on a wemos D1 mini with a few mosfets I had lying around. It projects a WAP which is utilized to set the alarm time and powers a bedshaker at the same time every day.  All you need is this device, something to power it, a bed shaker and a smart phone and you're good to go.  
 
 ## The circuit
 
